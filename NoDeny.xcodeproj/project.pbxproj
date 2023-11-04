@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84260C2F2AC9F13300FFA5E6 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84260C2E2AC9F13300FFA5E6 /* RegistrationView.swift */; };
+		84CF63B02AD1BA1C00599E46 /* ForgetPassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CF63AF2AD1BA1C00599E46 /* ForgetPassView.swift */; };
 		A1CFD72F29F0214900ED183D /* NoDenyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CFD72E29F0214900ED183D /* NoDenyApp.swift */; };
-		A1CFD73129F0214900ED183D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CFD73029F0214900ED183D /* ContentView.swift */; };
+		A1CFD73129F0214900ED183D /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CFD73029F0214900ED183D /* AuthView.swift */; };
 		A1CFD73329F0214A00ED183D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1CFD73229F0214A00ED183D /* Assets.xcassets */; };
 		A1CFD73629F0214A00ED183D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1CFD73529F0214A00ED183D /* Preview Assets.xcassets */; };
+		A1CFD73D29F0472F00ED183D /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CFD73C29F0472F00ED183D /* MainMenu.swift */; };
+		A1D13A0829F27B5E00DEA0E7 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A0729F27B5E00DEA0E7 /* ProfileView.swift */; };
+		A1D13A0A29F27B8800DEA0E7 /* UslugiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A0929F27B8800DEA0E7 /* UslugiView.swift */; };
+		A1D13A0C29F27B9B00DEA0E7 /* SeansyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A0B29F27B9B00DEA0E7 /* SeansyView.swift */; };
+		A1D13A0E29F27BAF00DEA0E7 /* PaysView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A0D29F27BAF00DEA0E7 /* PaysView.swift */; };
+		A1D13A1129F39BB100DEA0E7 /* JsonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A1029F39BB100DEA0E7 /* JsonData.swift */; };
+		A1D13A1329F39CC300DEA0E7 /* TarifCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A1229F39CC300DEA0E7 /* TarifCell.swift */; };
+		A1D13A1629F407EC00DEA0E7 /* parcer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D13A1529F407EC00DEA0E7 /* parcer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84260C2E2AC9F13300FFA5E6 /* RegistrationView.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; tabWidth = 4; };
+		84CF63AF2AD1BA1C00599E46 /* ForgetPassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPassView.swift; sourceTree = "<group>"; };
 		A1CFD72B29F0214900ED183D /* NoDeny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoDeny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1CFD72E29F0214900ED183D /* NoDenyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoDenyApp.swift; sourceTree = "<group>"; };
-		A1CFD73029F0214900ED183D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A1CFD73029F0214900ED183D /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
 		A1CFD73229F0214A00ED183D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1CFD73529F0214A00ED183D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A1CFD73C29F0472F00ED183D /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
+		A1D13A0729F27B5E00DEA0E7 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A1D13A0929F27B8800DEA0E7 /* UslugiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UslugiView.swift; sourceTree = "<group>"; };
+		A1D13A0B29F27B9B00DEA0E7 /* SeansyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeansyView.swift; sourceTree = "<group>"; };
+		A1D13A0D29F27BAF00DEA0E7 /* PaysView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaysView.swift; sourceTree = "<group>"; };
+		A1D13A1029F39BB100DEA0E7 /* JsonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonData.swift; sourceTree = "<group>"; };
+		A1D13A1229F39CC300DEA0E7 /* TarifCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarifCell.swift; sourceTree = "<group>"; };
+		A1D13A1529F407EC00DEA0E7 /* parcer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parcer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +71,11 @@
 		A1CFD72D29F0214900ED183D /* NoDeny */ = {
 			isa = PBXGroup;
 			children = (
+				A1D13A1429F39CCC00DEA0E7 /* Products */,
+				A1D13A0F29F27CAB00DEA0E7 /* View */,
+				A1D13A1029F39BB100DEA0E7 /* JsonData.swift */,
+				A1D13A1529F407EC00DEA0E7 /* parcer.swift */,
 				A1CFD72E29F0214900ED183D /* NoDenyApp.swift */,
-				A1CFD73029F0214900ED183D /* ContentView.swift */,
 				A1CFD73229F0214A00ED183D /* Assets.xcassets */,
 				A1CFD73429F0214A00ED183D /* Preview Content */,
 			);
@@ -65,6 +88,29 @@
 				A1CFD73529F0214A00ED183D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A1D13A0F29F27CAB00DEA0E7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A1CFD73029F0214900ED183D /* AuthView.swift */,
+				84260C2E2AC9F13300FFA5E6 /* RegistrationView.swift */,
+				A1CFD73C29F0472F00ED183D /* MainMenu.swift */,
+				A1D13A0729F27B5E00DEA0E7 /* ProfileView.swift */,
+				A1D13A0929F27B8800DEA0E7 /* UslugiView.swift */,
+				A1D13A0B29F27B9B00DEA0E7 /* SeansyView.swift */,
+				A1D13A0D29F27BAF00DEA0E7 /* PaysView.swift */,
+				84CF63AF2AD1BA1C00599E46 /* ForgetPassView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A1D13A1429F39CCC00DEA0E7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1D13A1229F39CC300DEA0E7 /* TarifCell.swift */,
+			);
+			path = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +141,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
-				LastUpgradeCheck = 1430;
+				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					A1CFD72A29F0214900ED183D = {
 						CreatedOnToolsVersion = 14.3;
@@ -137,8 +183,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1CFD73129F0214900ED183D /* ContentView.swift in Sources */,
+				84260C2F2AC9F13300FFA5E6 /* RegistrationView.swift in Sources */,
+				A1D13A1329F39CC300DEA0E7 /* TarifCell.swift in Sources */,
+				A1D13A0829F27B5E00DEA0E7 /* ProfileView.swift in Sources */,
+				A1D13A0C29F27B9B00DEA0E7 /* SeansyView.swift in Sources */,
+				84CF63B02AD1BA1C00599E46 /* ForgetPassView.swift in Sources */,
+				A1D13A0E29F27BAF00DEA0E7 /* PaysView.swift in Sources */,
+				A1D13A1629F407EC00DEA0E7 /* parcer.swift in Sources */,
+				A1CFD73129F0214900ED183D /* AuthView.swift in Sources */,
+				A1CFD73D29F0472F00ED183D /* MainMenu.swift in Sources */,
+				A1D13A1129F39BB100DEA0E7 /* JsonData.swift in Sources */,
 				A1CFD72F29F0214900ED183D /* NoDenyApp.swift in Sources */,
+				A1D13A0A29F27B8800DEA0E7 /* UslugiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +237,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -241,6 +298,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -267,7 +325,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NoDeny/Preview Content\"";
-				DEVELOPMENT_TEAM = HX9FG85PG5;
+				DEVELOPMENT_TEAM = DL7H9GY4MB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -296,7 +354,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NoDeny/Preview Content\"";
-				DEVELOPMENT_TEAM = HX9FG85PG5;
+				DEVELOPMENT_TEAM = DL7H9GY4MB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
